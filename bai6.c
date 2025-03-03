@@ -6,7 +6,7 @@
 	if(n<5){
 		printf("yeu\n");
 	}	
-    } else if (diem >= 5 && diem < 7) {
+    else if (diem >= 5 && diem < 7) {
         printf("Trung binh\n");
     } else if (diem >= 7 && diem < 8) {
         printf("Kha\n");
